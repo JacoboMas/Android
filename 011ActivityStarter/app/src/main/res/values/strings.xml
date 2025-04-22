@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">011ActivityStarter</string>
+    <string name="_011_activity_starter">011 Activity Starter</string>
+    <string name="boton">Lets go</string>
+    <string name="introduce_una_url">InTrOduCe UnA URL</string>
+    <string name="abrir_google">Navegar a Google</string>
+</resources>
